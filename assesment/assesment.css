@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: lightyellow;
+    color: navy;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding: 5px 20px;
+    background-color: lightgreen;
+    border-style: none;
+    color: navy;
+    
+}
+input{
+    height: 20px;
+}
